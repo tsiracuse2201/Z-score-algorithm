@@ -81,7 +81,7 @@ current_trades = load_current_trades()
 # Store last 40 data points for each ticker
 ticker_data = {}
 
-api_key = 'Q2oFv70FvYhklunfDLrMnO1sQNvdd2Vm'
+api_key = "USE YOUR OWN"
 
 
 def fetch_initial_data():
